@@ -22,4 +22,4 @@ To run the game locally, follow these steps:
 ### Steps to Install:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Bouncing_ball_game.git
+   git clone https://github.com/nourkelij/Bouncing_ball_game.git
